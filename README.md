@@ -32,7 +32,7 @@ and installed as follows:
 $ git clone https://github.com/jpbarraca/pynrf24.git
 $ cd pynrf24
 $ sudo python setup.py install
-
+```
 
 How to use
 ----------
