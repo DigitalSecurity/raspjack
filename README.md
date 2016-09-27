@@ -13,14 +13,16 @@ Raspberry Pi setup
 
 Connect the following pins (rasp) to the associated pins (nrf24):
 
-RASP    NRF24L01
-17      2
-19      6
-20      1
-21      7
-22      3
-23      5
-24      4
+|RASP | NRF24L01|
+|-----|---------|
+| 17  |    2    |
+| 18  |    8    |
+| 19  |    6    |
+| 20  |    1    |
+| 21  |    7    |
+| 22  |    3    |
+| 23  |    5    |
+| 24  |    4    |
 
 Dependencies
 ------------
